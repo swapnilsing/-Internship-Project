@@ -34,6 +34,7 @@ The project demonstrates how technology and data science can be applied to **com
 *Version Control: Git & GitHub for collaborative development. 
 
 📂 Datasets
+
 The datasets used in SmogSense were sourced from Kaggle.
 
 They include air quality and environmental monitoring data containing features such as:
@@ -46,3 +47,4 @@ These datasets serve as the foundation for:
 2)Exploratory Data Analysis (EDA)
 3)Visualization of pollution patterns
 4)Predictive modeling for air quality monitoring
+
