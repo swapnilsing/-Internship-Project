@@ -15,6 +15,7 @@ The goal of this project is to "track, analyze, and visualize air quality parame
 - 📦 Easy setup using `requirements.txt`  
 
 🎯 Objective
+
 SmogSense aims to **assist in environmental awareness and pollution control** by providing actionable insights from sensor data and datasets.  
 The project demonstrates how technology and data science can be applied to **combat air pollution and promote sustainable living**.  
 
@@ -43,8 +44,13 @@ They include air quality and environmental monitoring data containing features s
 📍 Location and time-based readings for trend analysis
 
 These datasets serve as the foundation for:
+
 1)Data preprocessing and cleaning
+
 2)Exploratory Data Analysis (EDA)
+
 3)Visualization of pollution patterns
+
 4)Predictive modeling for air quality monitoring
+
 
